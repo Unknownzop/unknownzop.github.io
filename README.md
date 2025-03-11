@@ -16,41 +16,6 @@ I specialize in developing Discord bots using various programming languages and 
 * **Databases:** MongoDB, SQLite
 * **Tools:** Git, npm, pip
 
-## Featured Projects
-
-### [Bot Name 1]
-
-[![Bot 1 Image]([Link to image or gif])](https://github.com/unknownzop/[Bot-Repository-Name])
-
-* **Description:** [A brief and impactful description of the bot. Focus on its purpose and key features.]
-* **Key Features:**
-    * [Feature 1]
-    * [Feature 2]
-    * [Feature 3]
-* **Technologies:** Discord.js, Node.js, [Other technologies]
-
-### [Bot Name 2]
-
-[![Bot 2 Image]([Link to image or gif])](https://github.com/unknownzop/[Bot-Repository-Name])
-
-* **Description:** [A brief and impactful description of the bot. Focus on its purpose and key features.]
-* **Key Features:**
-    * [Feature 1]
-    * [Feature 2]
-    * [Feature 3]
-* **Technologies:** Pycord, Python, [Other technologies]
-
-### [Bot Name 3]
-
-[![Bot 3 Image]([Link to image or gif])](https://github.com/unknownzop/[Bot-Repository-Name])
-
-* **Description:** [A brief and impactful description of the bot. Focus on its purpose and key features.]
-* **Key Features:**
-    * [Feature 1]
-    * [Feature 2]
-    * [Feature 3]
-* **Technologies:** Discord.py, Python, [Other technologies]
-
 ## GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=unknownzop&show_icons=true&theme=radical)](https://github.com/unknownzop)
