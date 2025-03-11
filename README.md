@@ -1,43 +1,66 @@
-# unknownzop - Portfolio
 
-Welcome to my portfolio! This repository showcases my projects, skills, and experience.
+# Unknownzop
+
+[![Email Badge](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:editunknownz@gmail.com)
+
+A passionate Discord Bot Developer with a focus on creating engaging and functional bots.
 
 ## About Me
 
-I'm a [Your Profession, e.g., software developer, aspiring programmer] with a keen interest in [Your Interests, e.g., web development, game development, system administration]. I enjoy exploring new technologies and building practical projects.
+I specialize in developing Discord bots using various programming languages and libraries. My goal is to build bots that enhance server communities and provide useful tools for users. I enjoy tackling challenging tasks and continuously learning new technologies to improve my development skills.
 
-## Skills
+## Key Skills
 
-* **Programming Languages:** [List your programming languages, e.g., Python, C++, HTML, CSS, JavaScript]
-* **Tools & Technologies:** [List tools and technologies, e.g., Git, Linux, Docker, etc.]
-* **Other Skills:** [List relevant skills, e.g., problem-solving, learning new technologies, etc.]
+* **Programming Languages:** JavaScript (Node.js), Python
+* **Libraries/Frameworks:** Discord.js, Pycord, Discord.py
+* **Databases:** MongoDB, SQLite
+* **Tools:** Git, npm, pip
 
-## Projects
+## Featured Projects
 
-### Project 1: [Project Name - Example: Simple Web Page]
+### [Bot Name 1]
 
-* **Description:** [Provide a brief description of the project and its purpose. Example: A basic HTML/CSS webpage.]
-* **Technologies Used:** [List the technologies used in the project. Example: HTML, CSS.]
-* **Link:** [Link to the project's repository or deployed application. Example: Link to your github repository for this project.]
-* **Image/Screenshot (Optional):** ![Project 1 Screenshot](path/to/screenshot.png)
-* **Key Features/Highlights:**
+[![Bot 1 Image]([Link to image or gif])](https://github.com/unknownzop/[Bot-Repository-Name])
+
+* **Description:** [A brief and impactful description of the bot. Focus on its purpose and key features.]
+* **Key Features:**
     * [Feature 1]
     * [Feature 2]
+    * [Feature 3]
+* **Technologies:** Discord.js, Node.js, [Other technologies]
 
-### Project 2: [Project Name - Example: Python Script]
+### [Bot Name 2]
 
-* **Description:** [Provide a brief description of the project. Example: A simple Python script for file manipulation.]
-* **Technologies Used:** [List the technologies used. Example: Python.]
-* **Link:** [Link to the project's repository. Example: Link to your github repository for this project.]
-* **Image/Screenshot (Optional):** ![Project 2 Screenshot](path/to/screenshot.png)
-* **Key Features/Highlights:**
+[![Bot 2 Image]([Link to image or gif])](https://github.com/unknownzop/[Bot-Repository-Name])
+
+* **Description:** [A brief and impactful description of the bot. Focus on its purpose and key features.]
+* **Key Features:**
     * [Feature 1]
+    * [Feature 2]
+    * [Feature 3]
+* **Technologies:** Pycord, Python, [Other technologies]
 
-### [Add more projects as needed]
+### [Bot Name 3]
 
-## Contact
+[![Bot 3 Image]([Link to image or gif])](https://github.com/unknownzop/[Bot-Repository-Name])
 
-* **GitHub:** [https://github.com/unknownzop](https://github.com/unknownzop)
-* **Email:** editunknownz@gmail.com 
+* **Description:** [A brief and impactful description of the bot. Focus on its purpose and key features.]
+* **Key Features:**
+    * [Feature 1]
+    * [Feature 2]
+    * [Feature 3]
+* **Technologies:** Discord.py, Python, [Other technologies]
 
+## GitHub Stats
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=unknownzop&show_icons=true&theme=radical)](https://github.com/unknownzop)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknownzop&layout=compact)](https://github.com/unknownzop)
+
+## Connect with Me
+
+[![Email Badge](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:editunknownz@gmail.com)
+
+---
+
+Feel free to reach out for collaborations or discussions about Discord bot development.
